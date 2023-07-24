@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kristoffer aka @FunkDx 
 - 👀 I’m interested in learning coding 
-- 🌱 I’m currently learning javascript & html
+- 🌱 I’m currently learning HTML, CSS & Javascript
 - 📫 How to reach me kristofferwied@gmail.com
 
 <!---
